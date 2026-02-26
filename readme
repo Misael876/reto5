@@ -6,3 +6,4 @@ git branch -M main
 git remote add origin https://github.com/Misael876/reto5.git
 git push -u origin main
 git cambio para unir
+cambio para pull
